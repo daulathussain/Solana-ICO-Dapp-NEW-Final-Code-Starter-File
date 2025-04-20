@@ -28,11 +28,11 @@ Solana • Rust • Anchor • Next.js • Phantom Wallet • TailwindCSS • We
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-ico-presale-dapp)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/a6MU06oD2kY?si=Gx37OZ5yoiHQH_Oi)
 
 #### Deploying Dapp
 
@@ -44,8 +44,8 @@ Kindly follow the following Instructions to run the project in your system and i
 
 ```
   WATCH: Setup & Demo Of Project
-  Code:
-  URL:
+  Code: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-ico-presale-dapp
+  URL: https://youtu.be/a6MU06oD2kY?si=Gx37OZ5yoiHQH_Oi
 ```
 
 #### Install Vs Code Editor
@@ -81,15 +81,15 @@ If you download the final source code then you can follow the following instruct
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
-  Video:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-ico-presale-dapp
+  Video: https://youtu.be/a6MU06oD2kY?si=Gx37OZ5yoiHQH_Oi
 ```
 
 #### Final Source Code
 
 ```
   Download the Final Source Code
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-ico-presale-dapp
 ```
 
 #### Install Vs Code Editor
